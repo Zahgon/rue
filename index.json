@@ -47505,6 +47505,14 @@
       "platform": "x86_64-linux",
       "report": "2386cc03dbf39081cce00b72ef3d7c778eba1ebf2d2c757e7aea3bc7ae711419",
       "suite_revision": 6
+    },
+    {
+      "commit": "c07cbdf7480ab230f7a8c57fbb70bcf9e41e527e",
+      "epoch": 6,
+      "finished_at": "2026-10-13T14:38:04Z",
+      "platform": "aarch64-macos",
+      "report": "39ae5000d2c3534313756d9a51af11d88603361bcf17fd2c2e318c3d9efb20ad",
+      "suite_revision": 6
     }
   ],
   "schema_version": 1
